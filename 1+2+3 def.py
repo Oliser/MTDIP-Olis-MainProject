@@ -24,7 +24,7 @@ def evenodd(s):
 
 a = input('Введите число: ')
 if increasing(a):
-        print('В порядке ВОЗРАСТАНИЯ')
+        print('В порядке В0ЗРАСТАНИЯ')
 else:
         print('В порядке убывания')
 b = descension(a)
